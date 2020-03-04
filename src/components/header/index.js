@@ -10,11 +10,11 @@ const Header = () =>{
                 <div className = "row">
                     <div className = "col-6">
                         <div className= "navWrapper">
-                            <h1>REACT CRUD AND ROUTING</h1>
+                            <Link to = "/"><h1>REACT CRUD AND ROUTING</h1></Link>
                         </div>
                     </div>
                         <div className = "col-6">
-                            <a href="" className = "btn btn-danger">Add Product</a>
+                            <Link to="/products/new" className = "btn btn-danger">Add Product</Link>
                         </div>
                     </div>
                 </div>

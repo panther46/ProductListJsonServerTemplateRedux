@@ -1,0 +1,14 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "nombre": "Jugo de Zanahoria",
+        "precio": "31111"
+      },
+      {
+        "id": 2,
+        "nombre": "Jugo de Naranja",
+        "precio": "1"
+      }
+    ]
+  }

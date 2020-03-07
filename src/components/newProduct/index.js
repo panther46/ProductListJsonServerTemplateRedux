@@ -1,6 +1,6 @@
 import React from 'react';
 
-
+// New Product Form
 function NewProduct(){
     return(
         <div className = "row justify-content-center">

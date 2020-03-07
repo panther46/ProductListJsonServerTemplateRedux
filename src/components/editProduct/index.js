@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-
+// Edit Product form
 function EditProduct(){
     return(
         <div className = "row justify-content-center">

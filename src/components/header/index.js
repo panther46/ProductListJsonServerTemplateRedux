@@ -2,7 +2,7 @@ import React from 'react';
 // Integrating link from react-router-dom installed.
 import {Link} from 'react-router-dom';
 
-
+// Header
 const Header = () =>{
     return(
         <div className = "headerWrapper">

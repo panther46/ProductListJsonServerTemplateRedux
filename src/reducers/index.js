@@ -1,7 +1,7 @@
 // Combining reducers on index:
-import from {combineReducers} from 'redux';
+import {combineReducers} from 'redux';
 // importing the reducer.
-import productsReducer from './productsReducers';
+import productsReducer from './productsReducer';
 
 
 // Including and combining if we have multiple reducers, we asign a custom name:

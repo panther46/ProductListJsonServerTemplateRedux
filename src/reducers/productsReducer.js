@@ -2,7 +2,7 @@
 const initialState ={
     products:[],
     error: false,
-    loading: false;
+    loading: false
 }
 
 // passing the state and action:
